@@ -2,6 +2,10 @@
 
 Algo de material sobre JavaScript. 
 
+[Introducción a JavsScript y DOM](./javascriptdombasics.md)
+
+<br/>
+
 ## Recursos en general
 
 [https://www.w3schools.com/js/default.asp](https://www.w3schools.com/js/default.asp)  
